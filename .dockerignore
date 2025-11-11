@@ -1,0 +1,8 @@
+cleaned_medical_dataset.xlsx
+__pycache__/
+*.ipynb
+*.xlsx
+*.log
+*.csv
+.env
+venv/
